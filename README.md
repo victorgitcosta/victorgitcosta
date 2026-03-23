@@ -24,11 +24,6 @@ const about = {
         profissional: 'bolsista por 6 meses em desenvolvimento de aplicativo web',
         meta: 'desenvolvimento de softwares'
     },
-    links: {
-        site: 'https://chrisnguyen.read.cv/',
-        github: 'https://github.com/chrisngyn',
-        linkedin: 'https://www.linkedin.com/in/chrisngyn',
-    },
     tempo_livre: {
         interesses: ['jogar', 'viajar', 'correr', 'jardinar', 'ler'],
         jogos: ['fire emblem', 'pokemon', 'dead by daylight'],
