@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 const about = {
     nome: 'victor costa',
     experiencia: {
-        educacao: 'cs @ Instituto Federal do Ceará - Campus Maracanaú',
-        pesquisa: 'visualização de dados com python',
-        profissional: 'bolsista por 6 meses em desenvolvimento de aplicativo web',
-        meta: 'desenvolvimento de softwares'
+        educacao: 'cs @ Instituto Federal do Ceará - Campus Maracanaú'
     },
     tempo_livre: {
         interesses: ['jogar', 'viajar', 'correr', 'jardinar', 'ler'],
